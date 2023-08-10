@@ -1,0 +1,39 @@
+﻿  assembler3.cpp
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(313,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(356,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(399,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(442,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(473,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(512,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(541,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(578,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(607,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(645,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(671,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(710,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(757,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(786,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(815,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(853,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(893,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(929,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(970,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(992,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(1047,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(1083,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(253,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(298,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(341,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(384,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(427,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(471,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(540,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(606,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(670,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(745,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(814,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(892,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(955,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(994,9): warning C4101: 'mergedhex': unreferenced local variable
+C:\Users\Taha\Desktop\assembler3\assembler3\assembler3.cpp(1067,9): warning C4101: 'mergedhex': unreferenced local variable
+  assembler3.vcxproj -> C:\Users\Taha\Desktop\assembler3\x64\Debug\assembler3.exe
